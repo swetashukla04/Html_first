@@ -1,0 +1,162 @@
+body {
+    font-style: roboto;
+    margin: 0px;
+    padding: 0;
+
+}
+
+.container {
+    background-color: #1f2937;
+    color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    color: #F9FAF8;
+    padding: 15px 100px 100px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0%;
+}
+
+a {
+    color: #e5e7eb67;
+    padding: 18px;
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+}
+
+.first {
+    color: #e5eae27b;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 15px 200px 100px 100px;
+}
+
+h1 {
+    color: #E5E7EB;
+    font-weight: bold;
+}
+.list
+{
+    display: flex;
+}
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #717c94;
+    color: #f3f5f8;
+    width: 550px;
+    height: 200px;
+
+}
+
+.b {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 45px;
+    background-color: rgb(9, 90, 156);
+    border-radius: 12px;
+    color: #E5E7EB;
+}
+
+.container2 {
+    padding: 20px 300px 100px 300px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container2 h1 {
+
+    text-align: center;
+    color: black;
+}
+
+.block {
+
+    background-color: white;
+    border: 5px solid blue;
+    border-radius: 30px;
+    width: 100%;
+    width: 200px;
+    height: 200px;
+    /* width: 100%; */
+
+}
+
+.list {
+
+    display: flex;
+  
+    justify-content:center;
+    align-items: center;
+    /* width: 100%; */
+    padding: 30px 500px;
+    gap: 20px;
+}
+
+.container2 p {
+    text-align: center;
+    font-style: roboto;
+    margin: 10px;
+    padding-right: 42px;
+
+}
+
+.container3 {
+    background-color: gray;
+    padding: 150px;
+}
+
+.container3 p {
+    text-align: center;
+    font-size: 35px;
+    margin: 10px;
+    padding: 50px;
+}
+
+.too {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: right;
+}
+
+.container4 {
+    background-color: white;
+
+}
+
+.box2 {
+    height: 150px;
+    width: 900px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 162, 255, 0.849);
+   margin:  100px 300px 100px 300px;
+
+}
+.a{
+    padding: 50px;
+    margin: 0;
+}
+
+.last{
+    background-color: rgb(62, 56, 56);
+    text-align: center;
+    padding: 50px;
+    color: #E5E7EB;
+}
